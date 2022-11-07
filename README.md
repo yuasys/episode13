@@ -10,7 +10,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## episode14(module14)
+## episode14(module14):Redux Toolkit
 
 [教材動画](https://youtu.be/yZqBVLcWSn8)
 
