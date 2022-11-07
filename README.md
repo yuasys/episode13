@@ -10,6 +10,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## episode14(module14):Redux Toolkit
+
+[教材動画](https://youtu.be/yZqBVLcWSn8)
+
+time | contents
+----|----
+[00:00](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=0s) | Intro
+[01:02](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=62s) |  Project Introduction
+[02:02](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=122s)  |  Package Installation
+[02:39](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=159s)  |  What is a Store?
+[04:07](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=247s)  |  Store Configuration
+[05:30](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=330s)  |  Provider in Redux
+[07:01](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=421s)  |  Creating Reducers for the Store
+[07:27](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=447s)  |  What is a Slice?
+[08:52](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=532s)  |  Creating the Slice
+[15:29](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=929s)  |  Configuring the Login Page
+[24:22](https://www.youtube.com/watch?v=yZqBVLcWSn8&list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR&index=14&t=1462s) | Typescript In Redux
+
 ## Available Scripts
 
 In the project directory, you can run:
